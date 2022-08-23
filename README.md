@@ -1,8 +1,7 @@
-![Graphic Designer](https://user-images.githubusercontent.com/106413641/186283277-c096b122-b9cb-4f12-a9ec-893e11f0b78f.gif)
+![Graphic Designer (1)](https://user-images.githubusercontent.com/106413641/186283880-5c207d93-26ef-4adc-8122-8b93c2e92c0e.gif)
 
+<h1 align="center"> (*꒦ິ꒳꒦ີ) 𝙸 𝚊𝚖 𝚓𝚞𝚜𝚝 𝚊 𝚐𝚒𝚛𝚕 𝚝𝚛𝚢𝚒𝚗𝚐 𝚝𝚘 𝚏𝚒𝚐𝚞𝚛𝚎 𝚝𝚑𝚒𝚗𝚐𝚜 𝚘𝚞𝚝 (*꒦ິ꒳꒦ີ) </h1>
 
-
-<h1 align="center"> (*꒦ິ꒳꒦ີ) 𝙸 𝚊𝚖 𝚓𝚞𝚜𝚝 𝚊 𝚐𝚒𝚛𝚕 𝚝𝚛𝚢𝚒𝚗𝚐 𝚝𝚘 𝚏𝚒𝚐𝚞𝚛𝚎 𝚝𝚑𝚒𝚗𝚐𝚜 𝚘𝚞𝚝 (*꒦ິ꒳꒦ີ) <h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=symphoniex&label=Profile%20views&color=0e75b6&style=flat" alt="symphoniex" /> </p>
 
