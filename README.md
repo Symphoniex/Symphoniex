@@ -1,4 +1,6 @@
-![I'm Thamela](https://user-images.githubusercontent.com/106413641/186048870-e5245660-a08f-417c-b066-a2b2ce59f0c2.png)
+![I'm Thamela](https://user-images.githubusercontent.com/106413641/186049586-7cb0ab9e-2e73-48a1-b24e-8663a4563386.gif)
+
+
 
 
 <h1 align="center"> 𝙸 𝚊𝚖 𝚓𝚞𝚜𝚝 𝚊 𝚐𝚒𝚛𝚕 𝚝𝚛𝚢𝚒𝚗𝚐 𝚝𝚘 𝚏𝚒𝚐𝚞𝚛𝚎 𝚝𝚑𝚒𝚗𝚐𝚜 𝚘𝚞𝚝 <h1>
