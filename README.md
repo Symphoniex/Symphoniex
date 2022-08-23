@@ -1,5 +1,4 @@
-![I'm Thamela](https://user-images.githubusercontent.com/106413641/186049586-7cb0ab9e-2e73-48a1-b24e-8663a4563386.gif)
-
+![I'm Thamela](https://user-images.githubusercontent.com/106413641/186050099-f07b56ca-dd64-4193-905d-4d3aa172d978.gif)
 
 
 
