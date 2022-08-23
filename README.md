@@ -11,4 +11,4 @@
 
 ![Thamela's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=symphoniex&show_icons=true&theme=synthwave)
 
-- 📫 How to reach me **tnuon99@gmail.com**
+📫 𝐻𝑜𝓌 𝓉𝑜 𝓇𝑒𝒶𝒸𝒽 𝓂𝑒: tnuon99@gmail.com
