@@ -1,4 +1,6 @@
-### ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ɢɪᴛʜᴜʙ! ᴍʏ ɴᴀᴍᴇ ɪꜱ ᴛʜᴀᴍᴇʟᴀ ɴᴜᴏɴ
+![I'm Thamela](https://user-images.githubusercontent.com/106413641/186048870-e5245660-a08f-417c-b066-a2b2ce59f0c2.png)
+
+
 <h1 align="center"> 𝙸 𝚊𝚖 𝚓𝚞𝚜𝚝 𝚊 𝚐𝚒𝚛𝚕 𝚝𝚛𝚢𝚒𝚗𝚐 𝚝𝚘 𝚏𝚒𝚐𝚞𝚛𝚎 𝚝𝚑𝚒𝚗𝚐𝚜 𝚘𝚞𝚝 <h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=symphoniex&label=Profile%20views&color=0e75b6&style=flat" alt="symphoniex" /> </p>
