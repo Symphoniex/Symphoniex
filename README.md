@@ -1,16 +1,21 @@
-### Hi there 👋
+### ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ɢɪᴛʜᴜʙ! ᴍʏ ɴᴀᴍᴇ ɪꜱ ᴛʜᴀᴍᴇʟᴀ ɴᴜᴏɴ
+<h1 align="center"> 𝙸 𝚊𝚖 𝚓𝚞𝚜𝚝 𝚊 𝚐𝚒𝚛𝚕 𝚝𝚛𝚢𝚒𝚗𝚐 𝚝𝚘 𝚏𝚒𝚐𝚞𝚛𝚎 𝚝𝚑𝚒𝚗𝚐𝚜 𝚘𝚞𝚝 <h1>
 
-<!--
-**Symphoniex/Symphoniex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=symphoniex&label=Profile%20views&color=0e75b6&style=flat" alt="symphoniex" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=symphoniex" alt="symphoniex" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
+
+<p>&nbsp;<img align="center" src= "https://github-readme-stats.vercel.app/api?username=symphoniex&show_icons=true&theme=Gradient" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=symphoniex&" alt="symphoniex" /></p>
+
+![Thamela's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=symphoniex&show_icons=true&theme=synthwave)
+
+- 📫 How to reach me **tnuon99@gmail.com**
